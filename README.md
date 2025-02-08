@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952bh5l410ldo5ej2wedy2cavda3z0xk1bqnrixt9mu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
