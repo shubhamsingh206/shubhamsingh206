@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsingh206&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh206" /> </p>
 
-- 🌱 I’m currently learning
--  **React**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about
-- **Web development, front-end technologies (HTML, CSS, JavaScript, React), building user-friendly websites, and my experience in hackathons! 🚀**
+- 💬 Ask me about **Web development, front-end technologies (HTML, CSS, JavaScript, React), building user-friendly websites, and my experience in hackathons! 🚀**
 
 - 📫 How to reach me
 -  **negishubham907@gmial.com**
