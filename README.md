@@ -10,7 +10,7 @@
 - 💬 Ask me about **Web development, front-end technologies (HTML, CSS, JavaScript, React), building user-friendly websites, and my experience in hackathons! 🚀**
 
 - 📫 How to reach me
--  **negishubham907@gmial.com**
+-  **negishubham907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
